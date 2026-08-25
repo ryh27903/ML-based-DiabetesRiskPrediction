@@ -1,0 +1,7 @@
+Model vs Baseline,NRI,IDI
+Decision Tree,-0.0145,0.0046
+Random Forest,-0.0019,-0.0321
+Extra Trees,-0.0176,-0.0637
+Hist Gradient Boosting,0.0122,0.0151
+XGBoost,0.0151,0.0171
+LightGBM,0.0155,0.0187
